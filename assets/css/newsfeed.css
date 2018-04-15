@@ -1,0 +1,19 @@
+#profile-page-wall-post{
+	padding:20px;
+}
+.card-profile-title{
+	padding: 10px;
+}
+
+.card-title{
+	padding: 50px;
+}
+
+a.group{
+  font-size: 500%;
+  font-weight: 100;
+  font-color: red;
+}
+ .tabs .indicator {
+            background-color:red;
+        } /*Color of underline*/

@@ -1,0 +1,22 @@
+.span1{
+	font-weight: 300;
+	font-size: 30px;
+	font-family: georgia;
+}
+
+
+.home{
+	font-weight:300; 
+	font-size:20px;
+}
+
+.navbar1{
+	font-weight: 30px;
+	font-size: 20px;
+	font-family: georgia;
+}
+
+/*.containerleft{
+overflow: auto;
+height: calc(100% - 50px);
+}*/
